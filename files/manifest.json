@@ -1,7 +1,7 @@
 {
   "zip": {
     "name": "blue-workshop-kit.zip",
-    "bytes": 762155
+    "bytes": 761291
   },
   "groups": [
     {
@@ -18,7 +18,7 @@
             {
               "name": "kestrel-pump-vibration-test-memo.docx",
               "kind": "Word",
-              "bytes": 13382
+              "bytes": 13383
             }
           ]
         },
@@ -33,7 +33,7 @@
             {
               "name": "harrier-power-budget-thermal-memo.docx",
               "kind": "Word",
-              "bytes": 13205
+              "bytes": 13206
             }
           ]
         },
@@ -48,7 +48,7 @@
             {
               "name": "pulse-incident-postmortem.docx",
               "kind": "Word",
-              "bytes": 13510
+              "bytes": 13511
             }
           ]
         }
@@ -68,7 +68,7 @@
             {
               "name": "brand-kit.docx",
               "kind": "Word",
-              "bytes": 13113
+              "bytes": 13114
             }
           ]
         },
@@ -83,7 +83,7 @@
             {
               "name": "personal-brand-template.docx",
               "kind": "Word",
-              "bytes": 12851
+              "bytes": 12852
             }
           ]
         }
@@ -128,12 +128,12 @@
             {
               "name": "2026-10-16-weekly-status.md",
               "kind": "Markdown",
-              "bytes": 4274
+              "bytes": 2818
             },
             {
               "name": "2026-10-16-weekly-status.docx",
               "kind": "Word",
-              "bytes": 12584
+              "bytes": 12058
             }
           ]
         },
@@ -178,7 +178,7 @@
             {
               "name": "blue-workshop.pdf",
               "kind": "PDF",
-              "bytes": 462465
+              "bytes": 462718
             }
           ]
         }
