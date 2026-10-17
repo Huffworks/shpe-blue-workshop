@@ -1,0 +1,188 @@
+{
+  "zip": {
+    "name": "blue-workshop-kit.zip",
+    "bytes": 762155
+  },
+  "groups": [
+    {
+      "title": "Sample documents",
+      "items": [
+        {
+          "label": "Kestrel pump vibration test memo",
+          "variants": [
+            {
+              "name": "kestrel-pump-vibration-test-memo.md",
+              "kind": "Markdown",
+              "bytes": 4920
+            },
+            {
+              "name": "kestrel-pump-vibration-test-memo.docx",
+              "kind": "Word",
+              "bytes": 13382
+            }
+          ]
+        },
+        {
+          "label": "Harrier power budget and thermal memo",
+          "variants": [
+            {
+              "name": "harrier-power-budget-thermal-memo.md",
+              "kind": "Markdown",
+              "bytes": 4510
+            },
+            {
+              "name": "harrier-power-budget-thermal-memo.docx",
+              "kind": "Word",
+              "bytes": 13205
+            }
+          ]
+        },
+        {
+          "label": "Pulse incident postmortem",
+          "variants": [
+            {
+              "name": "pulse-incident-postmortem.md",
+              "kind": "Markdown",
+              "bytes": 5090
+            },
+            {
+              "name": "pulse-incident-postmortem.docx",
+              "kind": "Word",
+              "bytes": 13510
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Brand kits",
+      "items": [
+        {
+          "label": "Tarrant brand kit",
+          "variants": [
+            {
+              "name": "brand-kit.md",
+              "kind": "Markdown",
+              "bytes": 4045
+            },
+            {
+              "name": "brand-kit.docx",
+              "kind": "Word",
+              "bytes": 13113
+            }
+          ]
+        },
+        {
+          "label": "Personal brand template",
+          "variants": [
+            {
+              "name": "personal-brand-template.md",
+              "kind": "Markdown",
+              "bytes": 3978
+            },
+            {
+              "name": "personal-brand-template.docx",
+              "kind": "Word",
+              "bytes": 12851
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "What the demo made",
+      "items": [
+        {
+          "label": "Kestrel pump briefing deck",
+          "variants": [
+            {
+              "name": "kestrel-pump-briefing.pptx",
+              "kind": "PowerPoint",
+              "bytes": 35439
+            }
+          ]
+        },
+        {
+          "label": "Kestrel pump briefing, ask on slide 1",
+          "variants": [
+            {
+              "name": "kestrel-pump-briefing-ask-first.pptx",
+              "kind": "PowerPoint",
+              "bytes": 35498
+            }
+          ]
+        },
+        {
+          "label": "Deck recipe (python-pptx script)",
+          "variants": [
+            {
+              "name": "build_pump_deck.py",
+              "kind": "Python",
+              "bytes": 14317
+            }
+          ]
+        },
+        {
+          "label": "Weekly status report",
+          "variants": [
+            {
+              "name": "2026-10-16-weekly-status.md",
+              "kind": "Markdown",
+              "bytes": 4274
+            },
+            {
+              "name": "2026-10-16-weekly-status.docx",
+              "kind": "Word",
+              "bytes": 12584
+            }
+          ]
+        },
+        {
+          "label": "System diagram (SVG)",
+          "variants": [
+            {
+              "name": "system-diagram.svg",
+              "kind": "SVG",
+              "bytes": 11397
+            }
+          ]
+        },
+        {
+          "label": "System diagram (PNG)",
+          "variants": [
+            {
+              "name": "system-diagram.png",
+              "kind": "PNG",
+              "bytes": 170147
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Handouts",
+      "items": [
+        {
+          "label": "Cheat sheet (PDF)",
+          "variants": [
+            {
+              "name": "cheatsheet.pdf",
+              "kind": "PDF",
+              "bytes": 132906
+            }
+          ]
+        },
+        {
+          "label": "Workshop slides (PDF)",
+          "variants": [
+            {
+              "name": "blue-workshop.pdf",
+              "kind": "PDF",
+              "bytes": 462465
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
